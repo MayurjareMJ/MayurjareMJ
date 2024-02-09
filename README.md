@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MayurjareMJ
+- 👋 Hi, I’m @Mayurrr
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Artifical Intelligence
 - 💞️ I’m looking to collaborate on ...
