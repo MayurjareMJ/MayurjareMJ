@@ -2,7 +2,8 @@
 <h3 align="center">I am Passinoted AI Engineer, and loves to play with Data.</h3>
 
 
-<img align="right" alt= "coding" width ="200" scr= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/search?sca_esv=e9d0f02f0fc54781&rlz=1C1GCEJ_enIN1028IN1028&sxsrf=ACQVn09qtY7ojHn3X4Cio4mfV1rWa0wYcA:1710141754362&q=gif+image+of+coding&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj31KK-1uuEAxUdglYBHfy3DJIQ0pQJegQICRAB&biw=1536&bih=695&dpr=1.25#imgrc=VnWiM7Rotib3CM">
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurjaremj&label=Profile%20views&color=0e75b6&style=flat" alt="mayurjaremj" /> </p>
