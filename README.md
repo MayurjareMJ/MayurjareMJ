@@ -3,11 +3,13 @@
 <h3 align="center">I am Passinoted AI Engineer, and loves to play with Data.</h3>
 
 
-<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="600" height="300"/>
+</div>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurjaremj&label=Profile%20views&color=0e75b6&style=flat" alt="mayurjaremj" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayurjaremj&label=Profile%20views&color=0e75b6&style=flat" alt="mayurjaremj" width="200" height="40" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayurjaremj" alt="mayurjaremj" /></a> </p>
 
@@ -96,24 +98,3 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurjaremj&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
