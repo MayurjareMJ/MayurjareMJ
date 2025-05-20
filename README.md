@@ -1,8 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Mayurrrrr</h1>
 <h3 align="center">I am Passinoted AI Engineer, and loves to play with Data.</h3>
 
 
-<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 
 
@@ -13,16 +14,14 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science & PowerBI**
-
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
-
 - 📝 I regularly code on [https://www.hackerrank.com/profile/mayurjaremj](https://www.hackerrank.com/profile/mayurjaremj)
-
 - 💬 Ask me about **anything! I am happy to help and guide you.**
-
 - 📫 How to reach me **[Mail](mailto:mayurjaremj@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mayur-jare-mj) | [Twitter](https://twitter.com/MayurJareMJ)**
-
 - ⚡ Fun fact **NaN is not equal to anything. Not even to itself!**
+
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,6 +31,8 @@
 <a href="https://www.hackerrank.com/@mayurjaremj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mayurjaremj" height="30" width="40" /></a>
 </p>
 
+
+---
 # 💻 Tech Stack:
 
 <h3 align="left">Languages and Tools:</h3>
@@ -84,9 +85,35 @@
 
 
 
-# 📊 GitHub Stats:
+---
 
-![](https://github-readme-stats.vercel.app/api?username=mayurjaremj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mayurjaremj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurjaremj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurjaremj&show_icons=true&theme=dark&hide_border=false" alt="Mayur's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurjaremj&theme=dark&hide_border=false" alt="Mayur's GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurjaremj&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
